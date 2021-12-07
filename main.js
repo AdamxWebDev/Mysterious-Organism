@@ -73,13 +73,13 @@ const pAequor = {
 }
 return pAequor
 }
-
-let spec1 = pAequorFactory(1, mockUpStrand())
+/* This section is for testing purposes. */
+//let spec1 = pAequorFactory(1, mockUpStrand())
 //let spec2 = pAequorFactory(2, mockUpStrand())
-console.log(spec1._dna)
+//console.log(spec1._dna)
 //console.log(spec1.complementStrand())
-spec1.mutate()
-console.log(spec1._dna)
+//spec1.mutate()
+//console.log(spec1._dna)
 //console.log(spec1.compareDNA(spec2))
 //console.log(spec1.willLikelySurvive())
 

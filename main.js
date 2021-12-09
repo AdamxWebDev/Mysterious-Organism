@@ -98,7 +98,7 @@ const pAequorSampleArray = () => {
   return sampleArray
 }
 const pAequorSamples = pAequorSampleArray()
-//console.log(pAequorSamples)
+console.log(pAequorSamples)
 
 
 
